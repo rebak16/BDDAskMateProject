@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: SearchTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in SearchTest
+SearchTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: Could not initialize class WebDriverManager
+	at SearchTest.<init>(SearchTest.java:11)
+

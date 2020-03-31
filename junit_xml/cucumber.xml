@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" tests="1">
+    <testcase classname="Login as a new user" name="Login" time="0">
+        <skipped>
+            <![CDATA[Given Open the Chrome and start application.................................................undefined
+When I fill the username field with "<username>"..............................................undefined
+And I fill the password field with "<password>"...............................................undefined
+And I click on the log in button......................................................undefined
+Then I logged in..............................................................undefined
+]]>
+        </skipped>
+    </testcase>
+</testsuite>

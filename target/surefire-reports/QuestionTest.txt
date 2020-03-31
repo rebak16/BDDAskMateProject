@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: QuestionTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.056 s <<< FAILURE! - in QuestionTest
+QuestionTest  Time elapsed: 0.055 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+	at QuestionTest.<init>(QuestionTest.java:10)
+Caused by: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases
+	at QuestionTest.<init>(QuestionTest.java:10)
+

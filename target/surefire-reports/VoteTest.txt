@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: VoteTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in VoteTest
+VoteTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NoClassDefFoundError: Could not initialize class WebDriverManager
+	at VoteTest.<init>(VoteTest.java:7)
+
